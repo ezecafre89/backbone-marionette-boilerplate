@@ -1,0 +1,6 @@
+{
+  "host" : "http://devrest.newapptest.com:8080",
+  "webappHost": "http://devweb.newapptest.com/",
+  "vhost" :"parkweb",
+  "local": true
+}
