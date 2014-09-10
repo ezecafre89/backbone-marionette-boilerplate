@@ -1,0 +1,17 @@
+{
+  "statusMessage": "",
+  "statusCode": 1,
+  "data": {
+    "items": [
+      {
+          "id": 1,
+          "name": "Marionette Research",
+          "description": "Do some research about Marionettejs",
+          "status": "ACTIVE",
+          "creationDate": "2014-06-24T00:00:00-03:00",
+          "dueDate": "2014-06-24T00:00:00-03:00"
+      }
+    ],
+    "amountItemsFound": 1
+  }
+}

@@ -1,2 +1,1 @@
-backbone-marionette-boilerplate
-===============================
+Backbone | Marionette Boilerplate
